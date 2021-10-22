@@ -76,7 +76,6 @@ const VIDEOS = [
   'heman.mp4',
   'jozin.mp4',
   'nyan.mp4',
-  'rickroll.mp4',
   'space.mp4',
   'trolol.mp4'
 ]

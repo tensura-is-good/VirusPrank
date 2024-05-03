@@ -70,13 +70,13 @@ const SEARCHES = [
 
 const VIDEOS = [
   'SpongeBob airdrop at airport [TubeRipper.com].mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4',
+  'SpongeBob airdrop at airport [TubeRipper.com].mp4',
+  'SpongeBob airdrop at airport [TubeRipper.com].mp4',
+  'Go! Cubs! Go! [TubeRipper.com].mp4',
   'heman.mp4',
   'Go! Cubs! Go! [TubeRipper.com].mp4',
-  'nyan.mp4',
-  'space.mp4',
+  'Go! Cubs! Go! [TubeRipper.com].mp4',
+  'Go! Cubs! Go! [TubeRipper.com].mp4',
   'trolol.mp4'
 ]
 

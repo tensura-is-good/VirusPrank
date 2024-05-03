@@ -70,13 +70,13 @@ const SEARCHES = [
 
 const VIDEOS = [
   'SpongeBob airdrop at airport [TubeRipper.com].mp4',
-  'SpongeBob airdrop at airport [TubeRipper.com].mp4',
-  'SpongeBob airdrop at airport [TubeRipper.com].mp4',
+  'trolol.mp4',
+  'heman.mp4',
   'Go! Cubs! Go! [TubeRipper.com].mp4',
   'heman.mp4',
   'Go! Cubs! Go! [TubeRipper.com].mp4',
   'Go! Cubs! Go! [TubeRipper.com].mp4',
-  'Go! Cubs! Go! [TubeRipper.com].mp4',
+  'heman.mp4',
   'trolol.mp4'
 ]
 
@@ -93,7 +93,7 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'The wheels on the bus go round and round, round and round, round and round. The wheels on the bus go round and round, all through the town!',
+  'this is how ya make viruses kids',
   'Dibidi ba didi dou dou, Di ba didi dou, Didi didldildidldidl houdihoudi dey dou',
   'I like fuzzy kittycats, warm eyes, and pretending household appliances have feelings',
   'I\'ve never seen the inside of my own mouth because it scares me to death.',
